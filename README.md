@@ -7,12 +7,12 @@ The goal of this level is to create a calm exploration experience with moments o
 The mood is meant to feel peaceful and atmospheric while exploring the mountain environment, while also creating slight tension when entering darker areas. Lighting is used to create contrast between safe spaces and more challenging traversal sections.
 
 ## Design Intentions
-• Use lighting to guide player movement  
-• Create contrast between dark and light areas  
-• Encourage exploration through terrain variation  
-• Add puzzle elements to create engagement  
-• Reward the player by reaching the final shrine  
-• Encourage observation rather than just moving forward  
+â€¢ Use lighting to guide player movement  
+â€¢ Create contrast between dark and light areas  
+â€¢ Encourage exploration through terrain variation  
+â€¢ Add puzzle elements to create engagement  
+â€¢ Reward the player by reaching the final shrine  
+â€¢ Encourage observation rather than just moving forward  
 
 ## Navigation and Exploration Design
 The main traversal path is designed to naturally guide the player through the environment using terrain shape and lighting. Players are encouraged to observe their surroundings carefully rather than just follow a straight path.
@@ -22,7 +22,7 @@ Exploration is rewarded. Players who look to the left and right of the main path
 The level is designed around player curiosity versus direct guidance to balance discovery with clarity.
 
 ## Gameplay Notes
-The objective is to reach the final shrine at the end of the level. When the player reaches it, a win message appears.
+The objective is to reach the final shrine at the end of the level. When the player reaches it, a win message sound will continuously play.
 
 If the player gets lost in dark areas, they should return to lit areas to regain visibility and direction.
 
@@ -33,9 +33,9 @@ Players should also check both sides of the path because there is a hidden area 
 F is how you interact with objects for the second puzzle.
 
 ## Known Issues
-• The starting menu does not automatically open first and must be opened manually  
-• Some dark areas may be too dark depending on player movement  
-• Player may need to follow lighting cues carefully to avoid getting lost  
+â€¢ The starting menu does not automatically open first and must be opened manually  
+â€¢ Some dark areas may be too dark depending on player movement  
+â€¢ Player may need to follow lighting cues carefully to avoid getting lost  
 
 ## Workarounds
 If visibility becomes too difficult, return toward visible light sources to reorient yourself.
@@ -43,8 +43,8 @@ If visibility becomes too difficult, return toward visible light sources to reor
 If the start screen does not appear at the beginning, open it manually before starting the level.
 
 ## Future Improvements
-• Improve starting UI flow  
-• Adjust lighting balance in dark sections  
-• Improve puzzle clarity  
-• Add more environmental storytelling  
-• Improve guidance toward the secret area  
+â€¢ Improve starting UI flow  
+â€¢ Adjust lighting balance in dark sections  
+â€¢ Improve puzzle clarity  
+â€¢ Add more environmental storytelling  
+â€¢ Improve guidance toward the secret area  
